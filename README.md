@@ -26,13 +26,6 @@ CSS / Tailwind (styling, optional)
 book-finder/
 │── public/
 │    └── index.html
-│── src/
-│    ├── App.js
-│    ├── BookList.js
-│    ├── BookItem.js
-│    ├── index.js
-│    ├── App.css
-│── package.json
 │── README.md
 
 ⚙️ Installation
