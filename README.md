@@ -23,40 +23,17 @@ Google Books API (data source)
 CSS / Tailwind (styling, optional)
 
 📂 Project Structure
-book-finder/
+book-finder-app/
 │── public/
-│    └── index.html
+│   └── index.html
+│── package.json
 │── README.md
 
-⚙️ Installation
-1. Clone the Repository
-git clone https://github.com/your-username/book-finder.git
-cd book-finder
-
-2. Install Dependencies
-npm install
-
-3. Run the App
-npm start
-
-
-The app will run at http://localhost:3000/.
 
 🌍 Deployment
 
 You can deploy the app easily using CodeSandbox, Vercel, or Netlify.
 
-Example (Netlify):
-
-npm run build
-
-
-Then drag the build/ folder to Netlify Drop
-
-
-📸 Screenshots
-
-Search Page Example:
 
 📌 API Used
 
